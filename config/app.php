@@ -43,7 +43,7 @@ return [
     //'debug' => env('APP_DEBUG', true),
 
 
-    'debug' => true,
+    'debug' => false,
     //'debug' => env('APP_DEBUG', false),
 
     /*
