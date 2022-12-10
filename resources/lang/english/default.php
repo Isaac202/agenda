@@ -513,7 +513,7 @@ return [
     "offday_successfully_saved" => "Offday has been saved successfully.",
 
     // Navbar
-    "dashboard" => "Dashboard",
+    "dashboard" => "Dashboard888",
     "services" => "Services",
     "reports" => "Reports",
     "settings" => "Settings",
@@ -541,11 +541,11 @@ return [
 
 
     // Dashboard
-    "total_booking_for_next_30_days" => "Total bookings for next 30 days",
+    "total_booking_for_next_30_days" => "Total bookings for next 30 daysssssss",
     "confirmed_booking_for_next_30_days" => "Confirmed bookings for next 30 days",
     "today_total_booking" => "Today's total bookings",
     "today_pending_booking" => "Today's pending bookings",
-    "booking_overview" => "Booking Overview",
+    "booking_overview" => "Booking Overviewwwww",
     "last_12_months" => "This year",
     "booking_type" => "Booking Status",
     "total_bookings_of_different_services" => "Today's confirmed and pending booking %",

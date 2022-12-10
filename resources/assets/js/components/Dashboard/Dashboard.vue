@@ -18,9 +18,11 @@
                                 </div>
                             </div>
                             <div class="dashboard-card-child-2">
+                                <div>testeeee</div>
+                                <h5>novo teste fredd</h5>
                                 <h5>{{totalAllBooking}}</h5>
                                 <p>
-                                    {{ trans('lang.total_booking_for_next_30_days') }}
+                                    textnew
                                 </p>
                             </div>
                         </div>
